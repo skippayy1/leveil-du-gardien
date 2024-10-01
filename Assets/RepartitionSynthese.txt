@@ -1,0 +1,15 @@
+Luka
+-Tableau d'honneur
+-Canon de l'ennemi
+-Bloquage du personnage
+-Renvoi des projectiles
+
+Victor
+-Intégration des sons
+-Attaque du personnage
+-Déplacement des ennemis
+-Saut de l'ennemi
+-Portails vers une pièce bonus
+-Ajout de la neige
+-Ajout du flottement des nuages
+-Intégration des lumières et normal maps

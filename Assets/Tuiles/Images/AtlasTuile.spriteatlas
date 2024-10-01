@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AtlasTuile
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - c16ffed88812e514a9b373b6e629f342: 1572735707
+    - c16ffed88812e514a9b373b6e629f342: 1596755646
+    - c16ffed88812e514a9b373b6e629f342: 904980454
+    - c16ffed88812e514a9b373b6e629f342: -1217159148
+    - c16ffed88812e514a9b373b6e629f342: 1019378379
+    - c16ffed88812e514a9b373b6e629f342: -553711418
+    - c16ffed88812e514a9b373b6e629f342: -1796972830
+    - c16ffed88812e514a9b373b6e629f342: 1104529843
+    - c16ffed88812e514a9b373b6e629f342: -590794002
+    - c16ffed88812e514a9b373b6e629f342: 1232889063
+    - c16ffed88812e514a9b373b6e629f342: 1714164799
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 1572735707, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: 1596755646, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: 904980454, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: -1217159148, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: 1019378379, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: -553711418, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: -1796972830, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: 1104529843, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: -590794002, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: 1232889063, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  - {fileID: 1714164799, guid: c16ffed88812e514a9b373b6e629f342, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Tuiles_10
+  - Tuiles_0
+  - Tuiles_1
+  - Tuiles_2
+  - Tuiles_3
+  - Tuiles_4
+  - Tuiles_5
+  - Tuiles_6
+  - Tuiles_7
+  - Tuiles_8
+  - Tuiles_9
+  m_RenderDataMap: {}
+  m_Tag: AtlasTuile
+  m_IsVariant: 0

@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 3f376f6537d466e4f8efb0b2229e71d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: course_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e2d6a2c3d4c9a47805de64cf5f3225
+      internalID: -1417149214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 316.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d7cd7a571958d40b3164014c8f82a2
+      internalID: 1547155174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 315
+        width: 322
+        height: 316
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dbb816cfda2164087292f5fa0df368
+      internalID: 75404564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_3
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 316.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.44065678, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769f21c03c07a7a4192f229580db9984
+      internalID: -1570132611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_4
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 316.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4ff28e18ea004e9e4fd9a3f7b8676
+      internalID: 222578207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_5
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 316.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e796f9d09e1ad40916a654c48fc407
+      internalID: -1373667731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 322
+        height: 316
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11caf09e906ccfd47b18c378f6ce0d5e
+      internalID: -600161352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e124eb5f8ff1148984fcb9b37b217d
+      internalID: -150621793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd4f03f4fc14ee4888e523be1cefcdc
+      internalID: -1002766267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_9
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70728e2e586dd66498e0b23c44cb3944
+      internalID: 584430791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_10
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf9b547568e884aa0ab81335e73b3e
+      internalID: -1665927118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_11
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 0.5
+        width: 322.5
+        height: 316.5
+      alignment: 9
+      pivot: {x: 0.4406568, y: 0.1760629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638413823e747d546824364703634b70
+      internalID: -1067001853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1935
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e1d276f96652e4a8ec669eef213726
+      internalID: -1987733902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 777f7f68713f0854481aefce9163bd42, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      course_0: -1417149214
+      course_1: 1547155174
+      course_10: -1665927118
+      course_11: -1067001853
+      course_12: -1987733902
+      course_2: 75404564
+      course_3: -1570132611
+      course_4: 222578207
+      course_5: -1373667731
+      course_6: -600161352
+      course_7: -150621793
+      course_8: -1002766267
+      course_9: 584430791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc74f53b3caa534489157ee2ad402734, type: 3}
+  m_Name: LePerso
+  m_EditorClassIdentifier: 
+  _sonDegats: {fileID: 8300000, guid: d093963ba3431354994e7c176ba966a9, type: 3}
+  _engrenages: 67
+  _pointage: 0
+  _possedeCle: 0
+  _peutEsquiver: 0
+  _peutDoubleSaut: 0
+  _possedeHallebardeSpecial: 0
+  _niveau: 1
+  _vie: 100
+  _engrenagesIni: 0
+  _pointageIni: 0
+  _possedeCleIni: 0
+  _peutEsquiverIni: 0
+  _peutDoubleSautIni: 0
+  _possedeHallebardeSpecialInit: 0
+  _niveauIni: 1
+  _vieIni: 100
+  _lesObjets: []

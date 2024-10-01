@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: dfba259ea35c514439b24caff1073e72
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 96
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tuiles_Exportation_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441b223c7917474783b0dc8510f8d97
+      internalID: 1651495493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a165830dcf86349a591a93a7b1cd4c
+      internalID: -1491512121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6382918e831594d9f300b9bf65ae08
+      internalID: 462800616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 304
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7536290a4d4604ab35f3cc534b0ba8
+      internalID: 428546260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa23bb81988c8047a580c5784e5c26f
+      internalID: -617258781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3432863aa157b994cabd353042d397f7
+      internalID: -611288363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d965b4eea55acd24597d4dc7f34d9670
+      internalID: 1981708949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 104
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781f25ef95c37a34e829958f438dacb0
+      internalID: -1795186512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eca007700c013c49ac2574c19d706b1
+      internalID: 934394276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_9
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 104
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a914cdd38baa8439b621899cf76496
+      internalID: 2112135195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tuiles_Exportation_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: 48}
+        - {x: -48, y: -48}
+        - {x: 48, y: -48}
+        - {x: 48, y: 48}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7a40e3c2fb3a94db8033ae3c50f8fa
+      internalID: -1911423546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: c29c8910ccc114c448f9c3371876ea1a, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Tuiles_Exportation_0: 1651495493
+      Tuiles_Exportation_1: -1491512121
+      Tuiles_Exportation_10: -1911423546
+      Tuiles_Exportation_2: 462800616
+      Tuiles_Exportation_3: 428546260
+      Tuiles_Exportation_4: -617258781
+      Tuiles_Exportation_5: -611288363
+      Tuiles_Exportation_6: 1981708949
+      Tuiles_Exportation_7: -1795186512
+      Tuiles_Exportation_8: 934394276
+      Tuiles_Exportation_9: 2112135195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
